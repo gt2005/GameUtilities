@@ -1,6 +1,11 @@
 package manager
 {
+    import com.hurlant.math.BigInteger;
+    
     import flash.utils.Dictionary;
+    
+    import ui.AbsWindow;
+
     /**
      * window管理类 处理window的共存 互斥关系
      * @author green_tea

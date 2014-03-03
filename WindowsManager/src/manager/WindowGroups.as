@@ -1,5 +1,7 @@
 package manager
 {
+	import com.hurlant.math.BigInteger;
+
     /**
      * 预定义的组id 
      * @author green_tea
