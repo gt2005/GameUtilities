@@ -1,6 +1,10 @@
 WindowsManager
 =============
-在游戏制作过程中经常会遇到ui界面互斥或共存的问题，WindowsManager用来解决此类问题。它将ui面板分组，同一组的ui面板默认是共存的，不同组的ui面板默认是互斥的。但是可以通过调用特定的接口让不同组的ui面板共存，同时也可以实现同组的ui面板互斥，并且提供了两种共存互斥关系的优先级。BigInteger类来自[as3crypto](http://code.google.com/p/as3crypto/)项目
+在游戏制作过程中经常会遇到ui界面互斥或共存的问题，WindowsManager用来解决此类问题。
+
+它将ui面板分组，同一组的ui面板默认是共存的，不同组的ui面板默认是互斥的。但是可以通过调用特定的接口让不同组的ui面板共存，同时也可以实现同组的ui面板互斥，并且提供了两种共存互斥关系的优先级。
+
+BigInteger类来自[as3crypto](http://code.google.com/p/as3crypto/)项目
 
 Ascript控制台
 =============
