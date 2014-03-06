@@ -228,7 +228,7 @@ package
             addChild(scriptTf);
             
             
-            groot.stage.addEventListener(KeyboardEvent.KEY_DOWN,onKeyDown,true,1000);
+            groot.stage.addEventListener(KeyboardEvent.KEY_DOWN,onKeyDown,false,1000);
             addEventListener(Event.ADDED_TO_STAGE,onAddtoStage);
         }
 		

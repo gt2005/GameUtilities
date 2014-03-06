@@ -30,6 +30,10 @@ Ascript脚本语言是一种解释型语言，和AS3几乎无缝结合，可以�
 
 下面是一个单纯的Ascript控制台程序，您可以测试Ascript脚本和控制台。
 
+体验Ascript控制台
+=============
+我们提供了一个在线的Ascript控制台地址，您可以在线体验Ascript控制台，请点击下面的连接
+
 [**体验Ascript控制台**](http://www.softplat.com/gt/ascriptConsole/ascriptconsole.html)
 
 
