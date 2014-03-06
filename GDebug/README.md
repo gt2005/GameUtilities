@@ -36,6 +36,26 @@ Ascript脚本语言是一种解释型语言，和AS3几乎无缝结合，可以�
 
 [**体验Ascript控制台**](http://www.softplat.com/gt/ascriptConsole/ascriptconsole.html)
 
+Ascript控制台指令
+=============
+
+- Toggle();
+- 
+- 打开或关闭控制台
+
+- Clean(type:int=0);
+- 
+- 清空控制台，type: 0 日志面板  1 脚本输出面板  2 所有面板
+
+- Save();
+- 
+- 把日志面板的内容保存到一个文本文件，日志面板最多显示200条，而保存到文本文件后最大记录数10000条
+
+- Load(isClass:Boolean=false);
+- 
+- 从外部加载一个文件，加载后自动解析文件内容，默认加载的文件不是类文件，如果想加载类文件，需要设置isClass为true
+- 加载后需要手动实例化类实例。
+
 
 
 
